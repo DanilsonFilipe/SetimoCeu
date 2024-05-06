@@ -1,0 +1,1 @@
+let ul=document.querySelectorAll(nav .ul)
